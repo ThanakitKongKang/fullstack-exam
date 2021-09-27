@@ -4,6 +4,12 @@
 ### 1. System Design
 จงออกแบบระบบย่อ URL พร้อม demo
 เช่น ย่อ http://my-order.ai/long-url/very-sub-path ให้เป็น http://shorturl.com/abcde
+สามารถระบุรายละเอียด เช่น 
+- database
+- back-end
+- front-end
+- deployment
+พร้อมเหตุผลที่เลือกใช้
 
 ### 2. Up To You
 จงออกแบบข้อสอบเอง พร้อมเฉลย อย่างน้อย 1 ข้อ
